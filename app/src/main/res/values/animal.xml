@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Animal_List">
+        <item>Choose an Animal</item>
+        <item>Cat</item>
+        <item>Lion</item>
+        <item>Wolf</item>
+        <item>Dog</item>
+        <item>Tiger</item>
+        <item>Antelope</item>
+        <item>Goat</item>
+        <item>Shep</item>
+        <item>snake</item>
+        <item>Oxen</item>
+        <item>Pig</item>
+        <item>Elephant</item>
+        <item>Duck</item>
+    </string-array>
+</resources>

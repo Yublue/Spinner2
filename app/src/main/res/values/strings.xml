@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string name="state_prompt">Choose a states</string>
+
+    <string-array name="State_List">
+        <item>Choose a states</item>
+        <item>Akwa Ibom</item>
+        <item>Calabar</item>
+        <item>Rivers</item>
+        <item>Kano</item>
+        <item>Kaduna</item>
+        <item>Enugu</item>
+        <item>Niger</item>
+        <item>Abuja</item>
+        <item>Port HarCourt</item>
+        <item>Benue</item>
+        <item>Sokoto</item>
+        <item>Jos</item>
+        <item>Kogi</item>
+        <item>Platue</item>
+        <item>Lagos</item>
+        <item>Bayelsa</item>
+    </string-array>
+
+</resources>
+
+
+
+

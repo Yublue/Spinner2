@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Continent_List">
+        <item>Choose a Continent</item>
+        <item>Africa</item>
+        <item>North_America</item>
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>Australia</item>
+        <item>South_America</item>
+        <item>Antarctica</item>
+
+    </string-array>
+</resources>
